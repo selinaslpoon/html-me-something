@@ -1,0 +1,38 @@
+html {
+	margin: 50;
+	padding: 10;
+	background-color: #F0F8FF;
+	}
+
+
+body { 
+	font-size: 15px;
+	color: green; 
+	margin: 10; 
+	padding: 10;
+	}
+p { 
+	text-align: justify;
+  	width: 75%;
+  	margin: 8px;
+  	box-sizing: border-box;
+	}
+
+
+h1 { 
+	color: red;
+	text-decoration: underline;
+	}
+
+img {
+	height: 150px;
+}
+
+.blue-text {
+	color: blue;
+	}
+
+
+#redHeading {
+	color: red;
+	}
